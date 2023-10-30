@@ -1,7 +1,7 @@
 # Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
-Todo código-fonte desenvolvido para este conteúdo foi basiado no curso ministrado pelo Felipe Aguiar, pela plataforma DIO.me e minha inspiração foi atraves do seguinte endereço:
+Todo código-fonte desenvolvido para este conteúdo foi baseado no curso ministrado pelo Felipe Aguiar, pela plataforma DIO.me e minha inspiração foi atraves do seguinte endereço:
 https://github.com/felipeAguiarCode/angular-psn-store-clone.
 
 ## Development server
